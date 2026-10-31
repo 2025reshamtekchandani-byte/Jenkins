@@ -1,1 +1,1 @@
-public class HelloJenkins { public static void main(String[] args) { System.out.println("Hello from Java - Jenkins build successful!"); } }
+public class HelloJenkins { public static void main(String[] args) { System.out.println("Hello from Java - Build triggered automatically!"); } }
