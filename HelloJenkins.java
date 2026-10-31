@@ -1,1 +1,1 @@
-public class HelloJenkins { public static void main(String[] args) { System.out.println("Broken build") } }
+public class HelloJenkins { public static void main(String[] args) { System.out.println("Hello from Java - Error fixed, build successful!"); } }
